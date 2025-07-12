@@ -129,9 +129,13 @@ Email: 1kevinvh@gmail.com
 ## Other Experience
 
 **CVS Pharmacy** | *Pharmacy Technician*
+
 **Lowes** | *Hardware & Tools Sales Associate*
+
 **Student Painters** | *Lead Painter*
+
 **Industrial Laundry** | *Lead Heavy Machine Operator*
+
 **Grand Valley State University Campus Dining** | *Student Manager*
 
 ---
