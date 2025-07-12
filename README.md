@@ -2,11 +2,6 @@
 
 ---
 
-## Education
-**Bachelors of Science in Mathematics and Statistics**
-- Grand Valley State University
-  - Allendale, Michigan
-
 ## Skills
 ***Languages & Tools:***    Python, SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
 
@@ -114,6 +109,13 @@
   - Recommended targeted marketing strategies such as incentives for long or weekend rides to convert non-subscribers into subscribers.
 
 ![Cyclistic Graph](/assets/img/daily_avg_trip_duration.png)
+
+---
+
+## Education
+**Bachelors of Science in Mathematics and Statistics**
+- Grand Valley State University, 2017-2021
+  - Allendale, Michigan
 
 ---
 
